@@ -6,12 +6,12 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <IconBase><IconACUnit /></IconBase>
+    
 </template>
 
 <script>
 import IconBase from '@/components/icons/IconBase';
-import IconACUnit from '@/components/icons/IconACUnit';
+import IconACUnit from '@/components/icons/nIconACUnit';
 
 export default {
   name: 'HelloWorld',
